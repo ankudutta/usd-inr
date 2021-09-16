@@ -1,1 +1,2 @@
-# usd-inr
+# Modelling USD-INR Conversion
+
